@@ -263,6 +263,7 @@ section {
 }
 
 /* ABOUT SECTION */
+
 #about {
   position: relative;
   /* background-color: #ead8c0; */
@@ -317,6 +318,7 @@ section {
 }
 section .text-container p {
   font-size: 1.5rem;
+  text-align: justify;
 }
 
 /* EXPERIENCE SECTION */
